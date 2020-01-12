@@ -6,7 +6,25 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10eeb318-14cf-4e15-b143-06df8611b760" name="Default Changelist" comment="" />
+    <list default="true" id="10eeb318-14cf-4e15-b143-06df8611b760" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/servlet/BusinessCardAdam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/servlet/BusinessCardAdam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/servlet/BusinessCardAdam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/servlet/BusinessCardAdam.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/classes/com/isa/servlet/BusinessCardAdam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/javaee-api-8.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/javax.mail-1.6.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/homework5adam/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +37,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -27,6 +48,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1WIWCwHngxO7qcgTIiJrCoJJj98" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -34,6 +56,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../jjdd8-materialy-jee/usersengine/pom.xml" />
@@ -193,7 +216,7 @@
               <path>
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
             </expand>
             <select />
@@ -212,7 +235,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578837464434</updated>
-      <workItem from="1578837475549" duration="8729000" />
+      <workItem from="1578837475549" duration="21559000" />
     </task>
     <servers />
   </component>
@@ -232,26 +255,26 @@
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state x="801" y="305" width="375" height="614" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578839105547" />
-    <state x="776" y="370" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578837731037">
+    <state x="776" y="370" width="424" height="484" key="FileChooserDialogImpl" timestamp="1578862038320">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state x="776" y="370" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1173@67.27.1853.1173" timestamp="1578837731037" />
-    <state width="1244" height="318" key="GridCell.Tab.0.bottom" timestamp="1578846302928">
+    <state x="776" y="370" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1173@67.27.1853.1173" timestamp="1578862038320" />
+    <state width="1244" height="318" key="GridCell.Tab.0.bottom" timestamp="1578861418848">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state width="1244" height="318" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578846302928" />
-    <state width="1244" height="318" key="GridCell.Tab.0.center" timestamp="1578846302927">
+    <state width="1244" height="318" key="GridCell.Tab.0.bottom/67.27.1853.1173@67.27.1853.1173" timestamp="1578861418848" />
+    <state width="1244" height="318" key="GridCell.Tab.0.center" timestamp="1578861418846">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state width="1244" height="318" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578846302927" />
-    <state width="1244" height="318" key="GridCell.Tab.0.left" timestamp="1578846302927">
+    <state width="1244" height="318" key="GridCell.Tab.0.center/67.27.1853.1173@67.27.1853.1173" timestamp="1578861418846" />
+    <state width="1244" height="318" key="GridCell.Tab.0.left" timestamp="1578861418845">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state width="1244" height="318" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578846302927" />
-    <state width="1244" height="318" key="GridCell.Tab.0.right" timestamp="1578846302928">
+    <state width="1244" height="318" key="GridCell.Tab.0.left/67.27.1853.1173@67.27.1853.1173" timestamp="1578861418845" />
+    <state width="1244" height="318" key="GridCell.Tab.0.right" timestamp="1578861418847">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
-    <state width="1244" height="318" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578846302928" />
+    <state width="1244" height="318" key="GridCell.Tab.0.right/67.27.1853.1173@67.27.1853.1173" timestamp="1578861418847" />
     <state x="526" y="270" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1578841069753">
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
