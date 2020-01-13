@@ -7,23 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="10eeb318-14cf-4e15-b143-06df8611b760" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jboss-web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/isa/servlet/BusinessCardAdam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/isa/servlet/BusinessCardAdam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/isa/servlet/BusinessCardAdam.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/isa/servlet/BusinessCardAdam.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/classes/com/isa/servlet/BusinessCardAdam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/activation-1.1.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/javaee-api-8.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/lib/javax.mail-1.6.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/homework5adam/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,11 +199,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="JBoss Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -235,7 +216,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578837464434</updated>
-      <workItem from="1578837475549" duration="21559000" />
+      <workItem from="1578837475549" duration="22940000" />
+      <workItem from="1578937549633" duration="99000" />
     </task>
     <servers />
   </component>
@@ -279,5 +261,9 @@
       <screen x="67" y="27" width="1853" height="1173" />
     </state>
     <state x="526" y="270" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578841069753" />
+    <state x="649" y="440" key="com.intellij.ide.util.TipDialog" timestamp="1578937551106">
+      <screen x="67" y="27" width="1853" height="1173" />
+    </state>
+    <state x="649" y="440" key="com.intellij.ide.util.TipDialog/67.27.1853.1173@67.27.1853.1173" timestamp="1578937551106" />
   </component>
 </project>

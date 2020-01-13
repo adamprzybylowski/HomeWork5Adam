@@ -18,7 +18,7 @@ public class BusinessCardAdam extends HttpServlet {
     @Override
     protected void doGet(HttpServletRequest req,
                          HttpServletResponse resp)
-            throws ServletException, IOException {
+            throws ServletExcreeption, IOException {
 
         LocalDateTime dateTime = LocalDateTime.now();
         resp.setContentType("text/html; charset=UTF-8");
